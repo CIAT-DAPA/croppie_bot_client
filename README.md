@@ -7,3 +7,7 @@ used to extract farm relevant data from natural text. Built with vite.
 > npm run dev
 > 
 > npm run build
+
+## Demo
+[Open Demo](https://ciat-dapa.github.io/croppie_bot_client/)
+
